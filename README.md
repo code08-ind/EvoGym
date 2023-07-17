@@ -1,6 +1,6 @@
 # EvoGym
 
-EvoGym is Gym Website Template Build With Maginificent Design And Responsive Behavior.
+EvoGym is Gym Website Template Build With Magnificent Design And Responsive Behavior.
 
 ## Skills
 
@@ -14,4 +14,4 @@ EvoGym is Gym Website Template Build With Maginificent Design And Responsive Beh
 
 ## Website
 
-Website is Deployed at : [Web Application Link](https://evogym.vercel.app/)
+Website is Deployed at: [Web Application Link](https://evo-gym-nu.vercel.app/)
